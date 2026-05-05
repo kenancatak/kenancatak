@@ -1,16 +1,25 @@
-## Hi there 👋
+Merhabalar 👋👋
 
-<!--
-**kenancatak/kenancatak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--
+Adım Mustafa Kenan Çatak 17 Yaşındayım.
+-
+Haydarpaşa Mesleki ve Teknik Anadolu Lisesinde Yazılım Geliştirme Bölümü okuyorum.
+-
+7-8 Yaşlarımdan Beri Yazılımla İlgiliyim. 
+//
+Başta Oyun Geliştirme Üzerine Yazılım Dünyası ile Tanıştım.
+Sonra Web Tasarımı ile Yoluma Devam Ettim.
+Şuan'da Aktif olarak vibe-coding ile Profesyonel düzeyde Masaüstü ve Mobil Uygulamalar Geliştiriyorum.
+//
+--
 
-Here are some ideas to get you started:
+Hobilerim 🎳
+--
+//
+Piyano Çalmak 🎹🎼
+BJJ (Brazilian Jiu-Jitsu) 🤼‍♂️
+Yazılım Yapmak 💻
+//
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aktif İletişim :;
+Discord: cubanocomoyo

@@ -19,8 +19,6 @@ Hobilerim 🎳
 --
 Piyano Çalmak 🎹🎼
 -
-BJJ (Brazilian Jiu-Jitsu) 🤼‍♂️
--
 Yazılım Yapmak 💻
 --
 
